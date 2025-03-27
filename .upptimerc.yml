@@ -4,20 +4,19 @@ repo: upptime
 sites:
   - name: Streamline Landing
     url: https://www.getstreamline.com
+  - name: Special Districts Backend
+    url: https://production.getstreamline.net
   - name: System Catalog
     url: https://www.systemcatalog.net
   - name: Check My District
     url: https://www.checkmydistrict.org/
 
 status-website:
-  # apiBaseUrl: https://api.github.com
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.getstreamline.net
   baseUrl: /
-  logoUrl: https://raw.githubusercontent.com/getstreamline/upptime/refs/heads/master/assets/streamline-logo.png
-  name: ""
-  introTitle: "**Streamline** Site Status"
+  logoUrl: https://raw.githubusercontent.com/getstreamline/upptime/refs/heads/master/assets/streamline-icon.png
+  name: "Streamline"
+  introTitle: "**Streamline** System Status"
   introMessage: Sitewide status can be found below. Updates regarding availablility will be posted here.
   navbar:
     - title: Status
