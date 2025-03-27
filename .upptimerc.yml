@@ -15,7 +15,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.getstreamline.net
   baseUrl: /
-  logoUrl: https://raw.githubusercontent.com/getstreamline/upptime/assets/streamline-logo.png
+  logoUrl: https://raw.githubusercontent.com/getstreamline/upptime/refs/heads/master/assets/streamline-logo.png
   name: ""
   introTitle: "**Streamline** Site Status"
   introMessage: Sitewide status can be found below. Updates regarding availablility will be posted here.
