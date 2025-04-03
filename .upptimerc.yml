@@ -9,11 +9,11 @@ sites:
   - name: System Catalog
     url: https://www.systemcatalog.net
   - name: Check My District
-    url: https://www.checkmydistrict.org/
+    url: https://www.checkmydistrict.org
 
 status-website:
   cname: status.getstreamline.net
-  baseUrl: /
+  baseUrl: ""
   logoUrl: https://raw.githubusercontent.com/getstreamline/upptime/refs/heads/master/assets/streamline-icon.png
   name: "Streamline"
   introTitle: "**Streamline** System Status"
@@ -21,8 +21,6 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
