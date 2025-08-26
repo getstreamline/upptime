@@ -45,10 +45,10 @@
     "url": "https://www.systemcatalog.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.systemcatalog.net.ico",
     "slug": "system-catalog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.85%",
-    "uptimeWeek": "99.84%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 280,
@@ -57,6 +57,7 @@
     "timeMonth": 285,
     "timeYear": 280,
     "dailyMinutesDown": {
+      "2025-08-26": 0,
       "2025-08-25": 16,
       "2025-08-15": 6
     }
