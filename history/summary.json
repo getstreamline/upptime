@@ -4,19 +4,19 @@
     "url": "https://www.getstreamline.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.getstreamline.com.ico",
     "slug": "streamline-landing",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 240,
-    "timeDay": 170,
-    "timeWeek": 185,
-    "timeMonth": 227,
+    "timeDay": 180,
+    "timeWeek": 187,
+    "timeMonth": 226,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2025-10-22": 0
+      "2025-10-22": 6
     }
   },
   {
@@ -60,19 +60,19 @@
     "url": "https://www.checkmydistrict.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.checkmydistrict.org.ico",
     "slug": "check-my-district",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 330,
-    "timeDay": 257,
-    "timeWeek": 260,
-    "timeMonth": 322,
-    "timeYear": 330,
+    "time": 329,
+    "timeDay": 250,
+    "timeWeek": 258,
+    "timeMonth": 318,
+    "timeYear": 329,
     "dailyMinutesDown": {
-      "2025-10-22": 0
+      "2025-10-22": 6
     }
   }
 ]
