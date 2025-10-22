@@ -4,18 +4,20 @@
     "url": "https://www.getstreamline.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.getstreamline.com.ico",
     "slug": "streamline-landing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 241,
-    "timeDay": 238,
-    "timeWeek": 197,
-    "timeMonth": 233,
-    "timeYear": 241,
-    "dailyMinutesDown": {}
+    "time": 240,
+    "timeDay": 170,
+    "timeWeek": 185,
+    "timeMonth": 227,
+    "timeYear": 240,
+    "dailyMinutesDown": {
+      "2025-10-22": 0
+    }
   },
   {
     "name": "Special Districts Backend",
@@ -58,17 +60,19 @@
     "url": "https://www.checkmydistrict.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.checkmydistrict.org.ico",
     "slug": "check-my-district",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 330,
-    "timeDay": 287,
-    "timeWeek": 265,
-    "timeMonth": 326,
+    "timeDay": 257,
+    "timeWeek": 260,
+    "timeMonth": 322,
     "timeYear": 330,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-22": 0
+    }
   }
 ]
