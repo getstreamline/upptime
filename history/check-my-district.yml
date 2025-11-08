@@ -1,7 +1,7 @@
 url: https://www.checkmydistrict.org
-status: up
-code: 200
+status: down
+code: 403
 responseTime: 227
-lastUpdated: 2025-11-07T23:02:21.678Z
+lastUpdated: 2025-11-08T13:00:54.440Z
 startTime: 2025-03-21T20:56:01.576Z
 generator: Upptime <https://github.com/upptime/upptime>
