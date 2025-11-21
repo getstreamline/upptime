@@ -7,17 +7,15 @@
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 237,
-    "timeDay": 214,
-    "timeWeek": 202,
-    "timeMonth": 212,
-    "timeYear": 237,
-    "dailyMinutesDown": {
-      "2025-11-16": 9
-    }
+    "time": 236,
+    "timeDay": 158,
+    "timeWeek": 187,
+    "timeMonth": 213,
+    "timeYear": 236,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Special Districts Backend",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 587,
-    "timeDay": 259,
+    "time": 586,
+    "timeDay": 568,
     "timeWeek": 1883,
-    "timeMonth": 819,
-    "timeYear": 587,
+    "timeMonth": 823,
+    "timeYear": 586,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 296,
-    "timeDay": 336,
-    "timeWeek": 294,
-    "timeMonth": 324,
-    "timeYear": 296,
+    "time": 295,
+    "timeDay": 154,
+    "timeWeek": 286,
+    "timeMonth": 322,
+    "timeYear": 295,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "99.91%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 327,
-    "timeDay": 256,
-    "timeWeek": 248,
-    "timeMonth": 306,
-    "timeYear": 327,
+    "time": 326,
+    "timeDay": 132,
+    "timeWeek": 230,
+    "timeMonth": 304,
+    "timeYear": 326,
     "dailyMinutesDown": {
       "2025-11-16": 9,
       "2025-10-22": 6
