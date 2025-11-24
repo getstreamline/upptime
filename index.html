@@ -23,4 +23,13 @@
             );
           });
         }
-      } catch (error) {} </script> 
+      } catch (error) {} </script><script>
+      window.addEventListener('load', function() {
+        setTimeout(function() {
+          var monthRadio = document.getElementById('data_month');
+          if (monthRadio && !monthRadio.checked) {
+            monthRadio.click();
+          }
+        }, 100);
+      });
+    </script>
