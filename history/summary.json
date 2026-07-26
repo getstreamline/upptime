@@ -22,7 +22,7 @@
     "url": "https://production.getstreamline.net",
     "icon": "https://icons.duckduckgo.com/ip3/production.getstreamline.net.ico",
     "slug": "special-districts-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "98.95%",
     "uptimeWeek": "99.85%",
@@ -41,7 +41,8 @@
       "2026-06-06": 20,
       "2026-06-07": 52,
       "2026-06-10": 126,
-      "2026-07-25": 15
+      "2026-07-25": 15,
+      "2026-07-26": 0
     }
   },
   {
