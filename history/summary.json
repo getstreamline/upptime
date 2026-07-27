@@ -22,17 +22,17 @@
     "url": "https://production.getstreamline.net",
     "icon": "https://icons.duckduckgo.com/ip3/production.getstreamline.net.ico",
     "slug": "special-districts-backend",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "97.97%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.92%",
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "93.51%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.91%",
     "time": 543,
-    "timeDay": 499,
-    "timeWeek": 453,
-    "timeMonth": 388,
-    "timeYear": 566,
+    "timeDay": 417,
+    "timeWeek": 434,
+    "timeMonth": 384,
+    "timeYear": 565,
     "dailyMinutesDown": {
       "2025-11-24": 25,
       "2026-02-08": 11,
@@ -43,7 +43,7 @@
       "2026-06-10": 126,
       "2026-07-25": 15,
       "2026-07-26": 29,
-      "2026-07-27": 0
+      "2026-07-27": 64
     }
   },
   {
