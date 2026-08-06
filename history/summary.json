@@ -52,19 +52,19 @@
     "url": "https://www.systemcatalog.net",
     "icon": "https://icons.duckduckgo.com/ip3/www.systemcatalog.net.ico",
     "slug": "system-catalog",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 299,
-    "timeDay": 310,
-    "timeWeek": 274,
-    "timeMonth": 249,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "96.56%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.99%",
+    "time": 300,
+    "timeDay": 340,
+    "timeWeek": 286,
+    "timeMonth": 252,
     "timeYear": 309,
     "dailyMinutesDown": {
-      "2026-08-06": 0
+      "2026-08-06": 50
     }
   },
   {
