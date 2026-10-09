@@ -4,19 +4,19 @@
     "url": "https://www.getstreamline.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.getstreamline.com.ico",
     "slug": "streamline-landing",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.03%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 215,
-    "timeDay": 125,
-    "timeWeek": 163,
-    "timeMonth": 181,
+    "timeDay": 163,
+    "timeWeek": 172,
+    "timeMonth": 184,
     "timeYear": 201,
     "dailyMinutesDown": {
-      "2026-10-09": 0
+      "2026-10-09": 14
     }
   },
   {
@@ -75,21 +75,21 @@
     "url": "https://www.checkmydistrict.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.checkmydistrict.org.ico",
     "slug": "check-my-district",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 297,
-    "timeDay": 197,
-    "timeWeek": 266,
-    "timeMonth": 269,
-    "timeYear": 277,
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 296,
+    "timeDay": 182,
+    "timeWeek": 253,
+    "timeMonth": 263,
+    "timeYear": 276,
     "dailyMinutesDown": {
       "2025-10-22": 6,
       "2025-11-16": 9,
-      "2026-10-09": 0
+      "2026-10-09": 14
     }
   }
 ]
